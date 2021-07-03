@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">favourites</string>
+    <string name="profile">profile</string>
+    <string name="about_app">About App</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_app_fragment">About_App_Fragment</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="action_sort">Action Sort</string>
+    <string name="bookhub_app">BookHub App</string>
+    <string name="database_used_is_sqlite_version_1">Database used is SQLite version 1</string>
+    <string name="profile_and_about_app_of_this_app_is_under_development_and_feedback_will_definitely_be_added_to_this_app_based_on_users_demand_for_any_queries_contact_at_9140950804_follow_on_instagram_for_any_further_connection_instagram_mrpiyushhh">Profile and about app of this app is under development and feedback will definitely be added to this app based on users demand. For any queries contact at - 9140950804 Follow on instagram for any further connection Instagram : MrPiyushhh</string>
+    <string name="piyush_srivastava">Piyush Srivastava</string>
+    <string name="piyushsri20146_gmail_com">piyushsri20146@gmail.com</string>
+    <string name="_9140950804">9140950804</string>
+    <string name="ipt_balrampur">IPT,Balrampur</string>
+    <string name="android_developer">Android Developer</string>
+    //handling the hamburg butoon movement
+</resources>

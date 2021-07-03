@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <RelativeLayout tools:context=".fragment.AboutAppFragment" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:padding="10dp" android:textSize="20sp" android:text="@string/about_app_fragment" android:id="@+id/txtAboutApp"/>
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:layout_marginTop="10dp" android:id="@+id/txtAppName" android:textStyle="bold" android:textSize="35sp" android:textColor="#111111" android:textAlignment="center" android:text="@string/bookhub_app" android:padding="10dp" android:layout_below="@id/txtAboutApp"/>
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:layout_marginTop="20dp" android:id="@+id/txtAppdbVersion" android:textStyle="bold" android:textSize="25sp" android:textColor="#111111" android:textAlignment="center" android:text="@string/database_used_is_sqlite_version_1" android:padding="10dp" android:layout_below="@+id/txtAppName"/>
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:layout_marginTop="30dp" android:id="@+id/txtAppdevelopmentstatus" android:textStyle="bold" android:textSize="20sp" android:textColor="#111111" android:textAlignment="center" android:text="@string/profile_and_about_app_of_this_app_is_under_development_and_feedback_will_definitely_be_added_to_this_app_based_on_users_demand_for_any_queries_contact_at_9140950804_follow_on_instagram_for_any_further_connection_instagram_mrpiyushhh" android:padding="20dp" android:layout_below="@+id/txtAppdbVersion"/>
+
+
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:layout_marginTop="30dp"
+        android:textStyle="bold" android:textSize="18sp" android:textColor="#111111" android:textAlignment="center" android:text="Copyright reserved @2021" android:padding="10dp" android:layout_below="@+id/txtAppdevelopmentstatus"/>
+
+
+</RelativeLayout>
